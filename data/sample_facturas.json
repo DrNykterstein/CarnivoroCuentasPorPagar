@@ -1,0 +1,42 @@
+[
+  {
+    "id": "FAC-001",
+    "proveedor": "Distribuidora Frigorífica San Pedro C.A.",
+    "descripcion": "Lote 500kg Carne en Canal de Primera",
+    "monto_ves": 250000.0,
+    "monto_usdt_propuesto": 270.0,
+    "dias_credito": 15,
+    "factura_indexada_bcv": true,
+    "nota": "El proveedor ofrece 5% de descuento nominal en USDT si se paga de contado hoy."
+  },
+  {
+    "id": "FAC-002",
+    "proveedor": "Empaques y Termoformados del Centro",
+    "descripcion": "Bandejas plásticas y rollos de papel film grado alimenticio",
+    "monto_ves": 85000.0,
+    "monto_usdt_propuesto": 72.0,
+    "dias_credito": 21,
+    "factura_indexada_bcv": true,
+    "nota": "Descuento agresivo del 25% nominal para liquidar stock de fin de mes."
+  },
+  {
+    "id": "FAC-003",
+    "proveedor": "Especias y Condimentos Industriales",
+    "descripcion": "Tripas naturales para embutidos y mezcla de sales para curado",
+    "monto_ves": 45000.0,
+    "monto_usdt_propuesto": 46.5,
+    "dias_credito": 7,
+    "factura_indexada_bcv": true,
+    "nota": "Descuento intermedio del 9% en USDT. Caso límite para evaluación de brecha."
+  },
+  {
+    "id": "FAC-004",
+    "proveedor": "Servicios de Mantenimiento y Cava Cuarto",
+    "descripcion": "Reparación compresor de refrigeración y recarga de gas R404A",
+    "monto_ves": 120000.0,
+    "monto_usdt_propuesto": 136.0,
+    "dias_credito": 0,
+    "factura_indexada_bcv": false,
+    "nota": "Pago inmediato de contado. Factura con monto fijo en Bolívares sin indexación."
+  }
+]
