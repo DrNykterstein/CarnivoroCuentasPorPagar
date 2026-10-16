@@ -1,6 +1,6 @@
 # Carnívoros — Optimizador Inteligente de Cuentas por Pagar (USDT vs Bolívares)
 
-Sistema de **Ciencia de Datos, Machine Learning y Simulación de Montecarlo** diseñado para optimizar las decisiones de tesorería y cuentas por pagar en Venezuela. Evalúa si realmente es conveniente aceptar ofertas de proveedores para liquidar facturas comerciales en **USDT (Cripto / Dólar Paralelo)** a cambio de un descuento nominal, o si es financieramente superior pagar la factura en **Bolívares (VES)** al vencimiento del crédito.
+Sistema de **Simulación de Montecarlo** diseñado para optimizar las decisiones de tesorería y cuentas por pagar en Venezuela. Evalúa si realmente es conveniente aceptar ofertas de proveedores para liquidar facturas comerciales en **USDT (Cripto / Dólar Paralelo)** a cambio de un descuento nominal, o si es financieramente superior pagar la factura en **Bolívares (VES)** al vencimiento del crédito.
 
 En el sector cárnico y comercial en Venezuela, es frecuente que los proveedores emitan facturas expresadas en Bolívares o indexadas a la tasa oficial del Banco Central de Venezuela (BCV), y posteriormente ofrezcan un "descuento" si la factura se cancela de inmediato en USDT:
 
